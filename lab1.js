@@ -1,1 +1,1 @@
-console.log('Yatsushchak Vladyslav is making Lab 8')
+console.log('Yatsushchak Vladyslav is changing it to get error!')
